@@ -1,0 +1,1 @@
+PromptIn vanilla JS/HTML/CSS create a p tag that holds the number 0. Below it have 4 buttons.●Button 1: Add 1●Button 2: Subtract 1●Button 3: Subtract 5●Button 4: Subtract 5Each button will do the action described above. The buttons when pressed, will affect the zerothat is in the p-tag. No fancy styling necessary. Make sure to zip up your files and submit whendone on Populi.
